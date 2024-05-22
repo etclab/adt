@@ -1,3 +1,3 @@
-module github.com/syslab-wm/adt
+module github.com/etclab/adt
 
 go 1.21.6
